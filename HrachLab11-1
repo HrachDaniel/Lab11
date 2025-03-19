@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Головна сторінка</title>
+  <link rel="stylesheet" href="HrachLab11/styles.css">
+</head>
+<body>
+  <h1>Лабораторна робота №11</h1>
+  <p>Це головна сторінка мого сайту. Тут ви знайдете інформацію про мене та мої захоплення.</p>
+  <img src="HrachLab11/images/image1.jpg" alt="Опис зображення">
+  <p>Ще один абзац тексту для демонстрації форматування.</p>
+  <a href="file:///C:/Users/Student/Desktop/HrachLab11/page2.htm">Перейти на сторінку 2</a>
+  <a href="file:///C:/Users/Student/Desktop/HrachLab11/page3.htm">Перейти на сторінку 3</a>
+</body>
+</html>
